@@ -18,11 +18,6 @@ div#navigation-bar.container { /* to override default bootstrap attributes for a
     margin-right: 0;
 }
 
-/* div.navbar-header {
-    width: 100%;
-    padding-bottom: 10px;
-} */
-
 .navbar-brand {
     padding-top: 25px;
     padding-left: 0px !important;
@@ -66,7 +61,7 @@ div#navigation-bar.container { /* to override default bootstrap attributes for a
     clear: both;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 #section {
@@ -84,7 +79,7 @@ div#navigation-bar.container { /* to override default bootstrap attributes for a
     /* float:right;  */
     /* border-left: 2px solid black;
     border-bottom: 2px solid black; */
-    font-size: 36px; 
+    font-size: 38px; 
     color: black;
     padding-top: 0.75%;
     padding-bottom: 0.75%;
